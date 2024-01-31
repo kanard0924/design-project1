@@ -1,0 +1,115 @@
+* {
+    box-sizing: border-box;
+    margin: 0.5px;
+    padding: 0;
+    letter-spacing: 0.5px;
+}
+header {
+    background-color: black;
+    height: 85px;
+    align-items: center;
+    color: white;
+}
+nav {
+    align-items: center;
+}
+ol,ul {
+	list-style: none;
+}
+#mainMenu {
+	margin: 10px;
+	width: 900px;
+	font-family: sans-serif;
+}
+#mainMenu li {
+	display:block;
+	width:120px;
+	float:left;
+	margin-left:2px;
+	border:1px solid black;
+}
+#mainMenu a {
+	display:block;
+	padding:3px;
+	text-decoration:none;
+	background-color:lavender;
+	color:black;
+}
+#mainMenu a:hover {
+	background-color: white;
+}
+h1 {
+    position: relative;
+    left: 40%;
+    font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h2 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#img1 {
+    position: relative;
+    left: 25%;
+    top: 20px;
+    border-radius: 400px;
+}
+#p1 {
+    position: relative;
+    left: 26%;
+    top: 28px;
+}
+#img2 {
+    position: relative;
+    left: 45%;
+    top: 19px;
+    border-radius: 400px;
+}
+#p2 {
+    position: relative;
+    left: 60%;
+    top: 2px;
+}
+#img3 {
+    position: relative;
+    left: 33%;
+    top: 300px;
+    border-radius: 400px;
+}
+#p3 {
+    position: relative;
+    left: 33%;
+    top: 300px;
+}
+#img4 {
+    position: relative;
+    left: -15%;
+    top: 300px;
+    border-radius: 400px;
+}
+#p4 {
+    position: relative;
+    left: -15%;
+    top: 300px;
+}
+#img5 {
+    position: relative;
+    left: -28%;
+    top: 557px;
+    border-radius: 400px;
+}
+#img6 {
+    position: relative;
+    left: -6%;
+    top: 557px;
+    border-radius: 400px;
+}
+form {
+    position: relative;
+    text-align: center;
+    top: 760px;
+}
+#p7 {
+    font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
